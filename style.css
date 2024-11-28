@@ -738,7 +738,7 @@ margin-left: 20px;}
     height: 445px;
    }
     .card h3 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     left: -10px;}
     .main h1 {
     font-size: 50px;}
@@ -749,6 +749,8 @@ margin-left: 20px;}
     height: 45vh;}
     .content2 {
     margin-left:-540px;}
+    .btn-grad {
+    color: black;}
 }
 .open{
 display: flex !important;
