@@ -735,8 +735,7 @@ margin-left: 20px;}
     font-size: 1.4em;
     margin-left: 25px;}
     .card {
-    height: 445px;
-   }
+    height: 445px;}
     .card h3 {
     font-size: 1.3em;
     left: -10px;}
@@ -746,7 +745,7 @@ margin-left: 20px;}
     font-size: 20px;}
     .main {
     width: 100%;
-    height: 45vh;}
+    height: 55vh;}
     .content2 {
     margin-left:-540px;}
     .btn-grad {
